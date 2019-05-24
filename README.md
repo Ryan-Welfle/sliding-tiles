@@ -9,7 +9,7 @@ Welcome to the Sliding Tiles: README!
 Thank you for choosing to play “Sliding Tiles”!
 There are a few things you need you need to know to get this game up and running ...
 - Get either the ‘Sliding Tiles (windows) - R.Welfle - L.Baitwa.py’ or the 'Sliding Tiles (osx) - R.Welfle - L.Baitwa.py' file downloaded onto your computer (depending on with operating system you're using)
-- Download and unzip the 'slidingimages.zip' file, and put the contents in the same directory as the main program PY file
+- Download and unzip the 'slidingimagesandmusic.zip' file, and put the contents in the same directory as the main program PY file
 - Before you open the game via the pertinent PY file, make sure that you have the ‘pygame’ module installed on your computer, as this program will not work without it; you can install it by opening a Terminal window (for OSX) or Command Prompt window (for Windows) and typing the command ‘pip install pygame’
 - Once ‘pygame’ is successfully installed, the best way to open the program is open up Spyder (if you have it) and drag-and-drop the PY file from the folder that represents your operating system into Spyder
 - To start the game, press F5 or click on the ‘Run File’ button in Spyder; a window should open up revealing the game!
