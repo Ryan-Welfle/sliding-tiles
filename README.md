@@ -1,7 +1,12 @@
 # sliding-tiles
 A simple sliding puzzle game, featuring famous surrealist paintings
 
-(This is a modification of the awesome Sliding Puzzle game by Al Sweigart, https://inventwithpython.com/pygame/chapter4.html)
+- This is a modification of the awesome Sliding Puzzle game by Al Sweigart, https://inventwithpython.com/pygame/chapter4.html
+
+- This modification was created by Ryan Welfle and Lorenzo Baitwa
+
+- This modification was created using Spyder 3.3.2, and thus would best be run via that environment
+
 
 
 Welcome to the Sliding Tiles: README!
