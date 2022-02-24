@@ -32,6 +32,6 @@ Now that the ‘Sliding Tiles’ window has opened, here is how you can navigate
 - If you select ‘Reset All’ in the middle of a game, the game will undo all of the tile slides that you made during the game-play
 - If you select ‘Solve 20 Moves’ in the middle of a game, the game will get you twenty correct moves closer to solving the puzzle (think of this as a ‘help function’); for ‘easy’ games, you can press this button a maximum of 5 times before the puzzle ends up being solved; for ‘hard’ games, you can press this button a maximum of 18 times before the puzzle ends up being solved
 - If you select “Solve All” in the middle of a game, the game will solve the puzzle completely right before your very eyes!
-- WINDOWS VERSION ONLY! ​There is also the option to stop and start the game’s background music; to start the game’s background music (which will play on an infinite loop until stopped) press the ‘Play Background Music’ button; to stop the game’s background music press the ‘Stop Background Music’ button
+- There is also the option to stop and start the game’s background music; to start the game’s background music (which will play on an infinite loop until stopped) press the ‘Play Background Music’ button; to stop the game’s background music press the ‘Stop Background Music’ button
 
 Thank you for reading!
