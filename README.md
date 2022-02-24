@@ -5,7 +5,7 @@ A simple sliding puzzle game, featuring famous surrealist paintings
 
 - This modification was created by Ryan Welfle and Lorenzo Baitwa
 
-- This modification was created using Spyder 3.3.2, and thus would best be run via that environment
+- This modification was created using Spyder 3.3.2, and thus would best be run via that environment, or in IDLE
 
 
 
